@@ -1,0 +1,6 @@
+tensorflow-gpu==1.11
+keras
+sklearn
+matplotlib
+numpy
+opencv-python

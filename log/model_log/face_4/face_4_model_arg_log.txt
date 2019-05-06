@@ -1,0 +1,53 @@
+
+
+            This is  model each layer argument recoard.
+
+            # input layer
+            inputlayer_Activation = relu
+            inputlayer_conv2D_hidden_unit = 32
+            inputlayer_conv2D_kernel_size = (3, 3)
+            inputlayer_conv2D_padding = same
+
+            # one layer
+            onelayer_conv2D_hidden_unit = 32
+            onelayer_conv2D_kernel_size = (3, 3)
+            onelayer_conv2D_padding = same
+            onelayer_Activation = relu
+            onelayer_MaxPooling2D_pool_size = (2, 2)
+            onelayer_Dropout = 0.25
+
+            # two layer
+            twolayer_conv2D_hidden_unit = 64
+            twolayer_conv2D_kernel_size = (3, 3)
+            twolayer_conv2D_padding = same
+            twolayer_Activation = relu
+            twolayer_MaxPooling2D_pool_size = (2, 2)
+            twolayer_Dropout = 0.25
+
+            # three layer
+            threelayer_conv2D_hidden_unit = 128
+            threelayer_conv2D_kernel_size = (3, 3)
+            threelayer_conv2D_padding = same
+            threelayer_Activation = relu
+            threelayer_MaxPooling2D_pool_size = (2, 2)
+            threelayer_Dropout = 0.25
+
+            # four layer
+            fourlayer_conv2D_hidden_unit = 256
+            fourlayer_conv2D_kernel_size = (3, 3)
+            fourlayer_conv2D_padding = same
+            fourlayer_Activation = relu
+            fourlayer_MaxPooling2D_pool_size = (2, 2)
+            fourlayer_Dropout = 0.25
+
+            # full-connection layer
+            full_connectionlayer_Dense = 1024
+            full_connectionlayer_Activation = relu
+            full_connectionlayer_Dropout = 0.5
+
+            # output layer
+            ouputlayer_Activation = softmax
+            optimizer = Adam
+            loss = categorical_crossentropy
+
+        

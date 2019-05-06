@@ -1,0 +1,224 @@
+
+        --------------------------------------------------------------------------
+
+        This is run keras model predict result log.
+        The face dataset use [ face_4 ] and model use [ face_4_FaceID_model.h5 ].     
+
+        --------------------------------------------------------------------------
+        
+
+
+        
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ Load Face Image:  Aaron Judge_01.jpg
+ Face Image Predict result of : Aaron Judge ,[0]
+ Speed Time: 0.19s
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ Load Face Image:  Aaron Judge_02.jpg
+ Face Image Predict result of : Aaron Judge ,[0]
+ Speed Time: 0.22s
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ Load Face Image:  Aaron Judge_03.jpg
+ Face Image Predict result of : Aaron Judge ,[0]
+ Speed Time: 0.27s
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ Load Face Image:  Aaron Judge_04.jpg
+ Face Image Predict result of : Jean Reno ,[5]
+ Speed Time: 0.30s
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ Load Face Image:  Adam Sandler_01.jpg
+ Face Image Predict result of : Adam Sandler ,[1]
+ Speed Time: 0.02s
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ Load Face Image:  Adam Sandler_02.jpg
+ Face Image Predict result of : Ben Stiller ,[2]
+ Speed Time: 0.06s
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ Load Face Image:  Adam Sandler_03.jpg
+ Face Image Predict result of : Adam Sandler ,[1]
+ Speed Time: 0.08s
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ Load Face Image:  Adam Sandler_04.jpg
+ Face Image Predict result of : Adam Sandler ,[1]
+ Speed Time: 0.15s
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ Load Face Image:  Ben Stiller_01.jpg
+ Face Image Predict result of : Ben Stiller ,[2]
+ Speed Time: 0.03s
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ Load Face Image:  Ben Stiller_02.jpg
+ Face Image Predict result of : Adam Sandler ,[1]
+ Speed Time: 0.05s
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ Load Face Image:  Ben Stiller_03.jpg
+ Face Image Predict result of : Ben Stiller ,[2]
+ Speed Time: 0.09s
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ Load Face Image:  Ben Stiller_04.jpg
+ Face Image Predict result of : Ben Stiller ,[2]
+ Speed Time: 0.11s
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ Load Face Image:  Emily Watson_01.jpg
+ Face Image Predict result of : Emily Watson ,[3]
+ Speed Time: 0.03s
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ Load Face Image:  Emily Watson_02.jpg
+ Face Image Predict result of : Emily Watson ,[3]
+ Speed Time: 0.06s
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ Load Face Image:  Emily Watson_03.jpg
+ Face Image Predict result of : Emily Watson ,[3]
+ Speed Time: 0.10s
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ Load Face Image:  Emily Watson_04.jpg
+ Face Image Predict result of : Emily Watson ,[3]
+ Speed Time: 0.13s
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ Load Face Image:  Ice Cube_01.jpg
+ Face Image Predict result of : Jean Reno ,[5]
+ Speed Time: 0.02s
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ Load Face Image:  Ice Cube_02.jpg
+ Face Image Predict result of : Jean Reno ,[5]
+ Speed Time: 0.05s
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ Load Face Image:  Ice Cube_03.jpg
+ Face Image Predict result of : Ice Cube ,[4]
+ Speed Time: 0.08s
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ Load Face Image:  Ice Cube_04.jpg
+ Face Image Predict result of : Ice Cube ,[4]
+ Speed Time: 0.11s
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ Load Face Image:  Jean Reno_01.jpg
+ Face Image Predict result of : Emily Watson ,[3]
+ Speed Time: 0.03s
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ Load Face Image:  Jean Reno_02.jpg
+ Face Image Predict result of : Jean Reno ,[5]
+ Speed Time: 0.12s
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ Load Face Image:  Jean Reno_03.jpg
+ Face Image Predict result of : Jean Reno ,[5]
+ Speed Time: 0.14s
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ Load Face Image:  Jean Reno_04.jpg
+ Face Image Predict result of : Jean Reno ,[5]
+ Speed Time: 0.18s
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+Full Speed Time: 5.64s
+
+ "Aaron Judge_01.jpg"  Predict ----> Aaron Judge (O)
+
+ "Aaron Judge_02.jpg"  Predict ----> Aaron Judge (O)
+
+ "Aaron Judge_03.jpg"  Predict ----> Aaron Judge (O)
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ "Aaron Judge_04.jpg" Predict ----> Jean Reno (X)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ "Adam Sandler_01.jpg"  Predict ----> Adam Sandler (O)
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ "Adam Sandler_02.jpg" Predict ----> Ben Stiller (X)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ "Adam Sandler_03.jpg"  Predict ----> Adam Sandler (O)
+
+ "Adam Sandler_04.jpg"  Predict ----> Adam Sandler (O)
+
+ "Ben Stiller_01.jpg"  Predict ----> Ben Stiller (O)
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ "Ben Stiller_02.jpg" Predict ----> Adam Sandler (X)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ "Ben Stiller_03.jpg"  Predict ----> Ben Stiller (O)
+
+ "Ben Stiller_04.jpg"  Predict ----> Ben Stiller (O)
+
+ "Emily Watson_01.jpg"  Predict ----> Emily Watson (O)
+
+ "Emily Watson_02.jpg"  Predict ----> Emily Watson (O)
+
+ "Emily Watson_03.jpg"  Predict ----> Emily Watson (O)
+
+ "Emily Watson_04.jpg"  Predict ----> Emily Watson (O)
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ "Ice Cube_01.jpg" Predict ----> Jean Reno (X)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ "Ice Cube_02.jpg" Predict ----> Jean Reno (X)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ "Ice Cube_03.jpg"  Predict ----> Ice Cube (O)
+
+ "Ice Cube_04.jpg"  Predict ----> Ice Cube (O)
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ "Jean Reno_01.jpg" Predict ----> Emily Watson (X)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ "Jean Reno_02.jpg"  Predict ----> Jean Reno (O)
+
+ "Jean Reno_03.jpg"  Predict ----> Jean Reno (O)
+
+ "Jean Reno_04.jpg"  Predict ----> Jean Reno (O)
+
+
+        -------------------------------
+        Predict Correct count:  18
+        Predict Error   count:  6 
+        -------------------------------
+        
