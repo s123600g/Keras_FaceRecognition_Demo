@@ -10,9 +10,12 @@
 3. Nvidia CUDA 9.0
 4. Nvidia cudnn-9.0
 5. Python 3.6
-6. Anaconda
-7. Visual Studio Code → 可以不安裝，只用來編輯修改程式
-8. DroidCam → 將手機鏡頭當作WebCam串流之APP
+6. Tensorflow-GPU
+7. Anaconda
+8. Visual Studio Code → 可以不安裝，只用來編輯修改程式
+9. DroidCam → 將手機鏡頭當作WebCam串流之APP
+
+
 
 本程式專案使用Python Library Package：
 ----------------------------------------------------------------------------------------------------------------------------------
