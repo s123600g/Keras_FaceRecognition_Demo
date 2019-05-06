@@ -28,7 +28,10 @@ Install Visual C++ Build Tools 2015
 #### 關於Tensorflow-GPU安裝方法，可參考官網資源：
 [Build from source on Windows](https://www.tensorflow.org/install/source_windows)
 
-# 
+#### 安裝CUDA與cudnn 9.0 注意事項
+1. 針對CUDA安裝前，需要先安裝好 Visual Studio 2015 Community。
+2. 安裝CUDA完畢後，需要將cudnn-9.0資料夾內所有檔案目錄複製到 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0 底下。
+3. 在系統環境變數路徑需要加上 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin
 
 
 本程式專案使用Python Library Package：
