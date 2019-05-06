@@ -15,6 +15,10 @@
 8. Visual Studio Code → 可以不安裝，只用來編輯修改程式
 9. DroidCam → 將手機鏡頭當作WebCam串流之APP
 
+#### Visual Studio 2015 Community 官網下載資源：
+[Visual Studio 2015 Community](https://visualstudio.microsoft.com/vs/older-downloads/)
+Install Visual C++ Build Tools 2015
+
 #### Nvidia CUDA 9.0 官網下載資源：
 [CUDA Toolkit 9.0 Downloads](https://developer.nvidia.com/cuda-90-download-archive?target_os=Windows&target_arch=x86_64&target_version=10)
 
@@ -23,6 +27,8 @@
 
 #### 關於Tensorflow-GPU安裝方法，可參考官網資源：
 [Build from source on Windows](https://www.tensorflow.org/install/source_windows)
+
+# 
 
 
 本程式專案使用Python Library Package：
