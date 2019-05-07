@@ -45,6 +45,7 @@ Install Visual C++ Build Tools 2015
 4. matplotlib
 5. numpy
 6. opencv-python
+7. dlib
 
 #### 安裝方法1：使用讀取清單文件安裝
 > pip install -r requirements.txt <br/>
