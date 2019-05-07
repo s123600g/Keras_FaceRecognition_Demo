@@ -57,13 +57,13 @@ Install Visual C++ Build Tools 2015
 1.keras<br/> 
 > pip install keras<br/>
 2.sklearn<br/>
-> pip install sklearn<br/>
+> pip install sklearn
 3.matplotlib<br/>
-> pip install matplotlib<br/>
+> pip install matplotlib
 4.numpy<br/>
-> pip install numpy<br/>
+> pip install numpy
 5.opencv-python<br/>
-> pip install opencv-python<br/>
+> pip install opencv-python
 6.dlib<br/>
 > pip install dlib/dlib-19.8.1-cp36-cp36m-win_amd64.whl<br/>
 
