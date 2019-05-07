@@ -3,7 +3,7 @@
 本專案只是基礎實戰應用筆記，針對模型參數設定配置並沒有特別深入追究 。
 運用Keras操作Tensorflow。
 
-本程式專案環境需求：
+本程式專案環境需求與安裝順序：
 ----------------------------------------------------------------------------------------------------------------------------------
 1. 使用Nvidia-GPU
 2. Visual Studio 2015 Community
@@ -28,13 +28,16 @@ Install Visual C++ Build Tools 2015
 #### 關於Tensorflow-GPU安裝方法，可參考官網資源：
 [Build from source on Windows](https://www.tensorflow.org/install/source_windows)
 
+#### Anaconda 官網下載資源：
+[Anaconda Download](https://www.anaconda.com/distribution/#download-section)
+
 #### 安裝CUDA與cudnn 9.0 注意事項
 1. 針對CUDA安裝前，需要先安裝好 Visual Studio 2015 Community。
 2. 安裝CUDA完畢後，需要將cudnn-9.0資料夾內所有檔案目錄複製到 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0 底下。
 3. 在系統環境變數路徑需要加上 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin
 
 
-本程式專案使用Python Library Package：
+本程式專案使用Python Package：
 ----------------------------------------------------------------------------------------------------------------------------------
 1. tensorflow-gpu==1.11
 2. keras
@@ -42,6 +45,27 @@ Install Visual C++ Build Tools 2015
 4. matplotlib
 5. numpy
 6. opencv-python
+
+#### 安裝方法1：使用讀取清單文件安裝
+> pip install -r requirements.txt
+如果選擇此操作需要再獨自安裝dlib套件， 此為臉部偵測需要用到套件庫。
+dlib
+> pip install dlib/dlib-19.8.1-cp36-cp36m-win_amd64.whl
+
+#### 安裝方法2：使用pip指令獨立安裝
+1.keras 
+> pip install keras
+2.sklearn
+> pip install sklearn
+3.matplotlib
+> pip install matplotlib
+4.numpy
+> pip install numpy
+5.opencv-python
+> pip install opencv-python
+6.dlib
+> pip install dlib/dlib-19.8.1-cp36-cp36m-win_amd64.whl
+
 
 
 本程式專案結構：
