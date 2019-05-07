@@ -47,7 +47,7 @@ Install Visual C++ Build Tools 2015
 6. opencv-python
 
 #### 安裝方法1：使用讀取清單文件安裝
-> pip install -r requirements.txt <>
+> pip install -r requirements.txt <br/>
 如果選擇此操作需要再獨自安裝dlib套件， 此為臉部偵測需要用到套件庫。
 dlib
 > pip install dlib/dlib-19.8.1-cp36-cp36m-win_amd64.whl
