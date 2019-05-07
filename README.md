@@ -54,10 +54,10 @@ Install Visual C++ Build Tools 2015
 > pip install dlib/dlib-19.8.1-cp36-cp36m-win_amd64.whl
 
 #### 安裝方法2：使用pip指令獨立安裝
-1.keras<br/> 
-> pip install keras<br/>
-2.sklearn<br/>
-> pip install sklearn
+<p>1.keras <br/>
+> pip install keras</p>
+<p>2.sklearn <br/>
+> pip install sklearn </p>
 3.matplotlib<br/>
 > pip install matplotlib
 4.numpy<br/>
