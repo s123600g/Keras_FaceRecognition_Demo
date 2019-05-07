@@ -54,22 +54,22 @@ Install Visual C++ Build Tools 2015
 > pip install dlib/dlib-19.8.1-cp36-cp36m-win_amd64.whl
 
 #### 安裝方法2：使用pip指令獨立安裝
-1.keras <br/>
+1. keras <br/>
 > pip install keras
 
-2.sklearn <br/>
+2. sklearn <br/>
 > pip install sklearn 
 
-3.matplotlib<br/>
+3. matplotlib<br/>
 > pip install matplotlib
 
-4.numpy<br/>
+4. numpy<br/>
 > pip install numpy
 
-5.opencv-python<br/>
+5. opencv-python<br/>
 > pip install opencv-python
 
-6.dlib<br/>
+6. dlib(此為臉部偵測需要用到套件庫) <br/>
 > pip install dlib/dlib-19.8.1-cp36-cp36m-win_amd64.whl<br/>
 
 
