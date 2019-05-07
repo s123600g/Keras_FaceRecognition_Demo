@@ -97,9 +97,9 @@ Install Visual C++ Build Tools 2015
 在 FaceID.py、prediction.py、prediction_WebCam.py、face_capture.py內，會有一個變數命名為'face_class'，此為操作要使用哪一個臉部圖像資料集區塊。
 
 以 face_class = '4' 為例，此為代表要操作使用內部以'face_4'為命名臉部圖像資料集區塊資料目錄，內部有六位不同識別名稱資料夾，放置各自對應臉部圖像。
->圖像資料集分別如下：
-1. 訓練圖像資料集放置目錄：FaceImg/face_4
-2. 預測圖像資料集目錄：predictFaceimg/face_4
+圖像資料集分別如下：
+> 1. 訓練圖像資料集放置目錄：FaceImg/face_4
+> 2. 預測圖像資料集目錄：predictFaceimg/face_4
 
 face_capture.py 會自動識別是有存在'face_數字'為命名，臉部圖像資料集區塊資料目錄，如果不存在就會自動建立。
 
