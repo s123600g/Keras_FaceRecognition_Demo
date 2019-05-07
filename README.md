@@ -87,5 +87,14 @@ Install Visual C++ Build Tools 2015
 9. face_capture.py --> 運用WebCam進行臉部擷取，產生臉部圖像資料集
 
 
+Anaconda 執行程式操作：
+----------------------------------------------------------------------------------------------------------------------------------
+#### 開啟 Anaconda Prompt
+開啟 Anaconda Prompt (Windows)，一開始打開會是在(base)預設虛擬環境底下，如果要建立一個虛擬環境，需要先離開(base)預設虛擬環境底下。
 
+#### 建立虛擬環境
+建立虛擬環境指令：<br/>
+conda create --name [env_name] [python_env] <br/>
+假設要建立一個虛擬環境名稱為KerasFaceID，並且python環境為3.6<br/>
+> conda create --name KerasFaceID python=3.6
 
