@@ -133,4 +133,13 @@ Anaconda 執行程式操作：
 假設要離開一個虛擬環境名稱為KerasFaceID <br/>
 > conda deactivate
 
+#### 執行程式專案在虛擬環境底下
+模型訓練程式：FaceID.py <br/>
+> python FaceID.py
 
+臉部識別程式：prediction.py 或 prediction_WebCam.py (使用WebCam)
+> python prediction.py
+> python prediction_WebCam.py
+
+執行臉部擷取程式：face_capture.py(使用WebCam)
+> python face_capture.py
