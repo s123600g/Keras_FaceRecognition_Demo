@@ -149,7 +149,7 @@ Anaconda 執行程式操作：
 > python FaceID.py
 
 臉部識別程式：prediction.py 或 prediction_WebCam.py (使用WebCam)
-> python prediction.py
+> python prediction.py <br/>
 > python prediction_WebCam.py
 
 執行臉部擷取程式：face_capture.py(使用WebCam)
