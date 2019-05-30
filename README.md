@@ -3,7 +3,9 @@
 本專案只是基礎實戰應用筆記，針對模型參數設定配置並沒有特別深入追究 。<br/>
 運用Keras操作Tensorflow。
 
-[![License](https://github.com/s123600g/Keras_FaceRecognition_Demo/blob/master/LICENSE)]
+<p></p>
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 執行環境需求與安裝順序：
 ----------------------------------------------------------------------------------------------------------------------------------
